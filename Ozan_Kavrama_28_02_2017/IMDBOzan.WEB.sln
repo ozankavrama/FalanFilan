@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMDBOzan.WEB", "IMDBOzan.WEB\IMDBOzan.WEB.csproj", "{8BD24E40-DDB3-4166-83B3-CF810999E76E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMDBOzan.Entity", "IMDBOzan.Entity\IMDBOzan.Entity.csproj", "{D8273E65-29DC-4AFC-8286-FC1B9B0A577E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMDBOzan.DAL", "IMDBOzan.DAL\IMDBOzan.DAL.csproj", "{2EBD2DAF-C19F-4AB3-ABCF-B4B12A8BBE32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BD24E40-DDB3-4166-83B3-CF810999E76E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD24E40-DDB3-4166-83B3-CF810999E76E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD24E40-DDB3-4166-83B3-CF810999E76E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD24E40-DDB3-4166-83B3-CF810999E76E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8273E65-29DC-4AFC-8286-FC1B9B0A577E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8273E65-29DC-4AFC-8286-FC1B9B0A577E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8273E65-29DC-4AFC-8286-FC1B9B0A577E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8273E65-29DC-4AFC-8286-FC1B9B0A577E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EBD2DAF-C19F-4AB3-ABCF-B4B12A8BBE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBD2DAF-C19F-4AB3-ABCF-B4B12A8BBE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBD2DAF-C19F-4AB3-ABCF-B4B12A8BBE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBD2DAF-C19F-4AB3-ABCF-B4B12A8BBE32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
